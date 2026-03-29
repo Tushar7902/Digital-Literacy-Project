@@ -4,7 +4,7 @@ Social media is a powerful tool for communication, networking, and personal bran
 
 ---
 
-### ✅ Do’s
+###  Do’s
 - Be respectful and polite in your posts, comments, and messages  
 - Think before you post — your content represents you  
 - Verify information before sharing to avoid spreading misinformation  
@@ -20,7 +20,7 @@ Social media is a powerful tool for communication, networking, and personal bran
 
 ---
 
-### ❌ Don’ts
+###  Don’ts
 - Do not post offensive, abusive, or controversial content  
 - Avoid sharing personal information like phone number, address, or passwords  
 - Do not engage in unnecessary arguments or online fights  
@@ -35,7 +35,7 @@ Social media is a powerful tool for communication, networking, and personal bran
 
 ---
 
-### 💡 Final Note
+###  Final Note
 Using social media wisely can help you grow personally and professionally. A responsible and positive online presence creates better opportunities and leaves a lasting impression.
 
 ---
