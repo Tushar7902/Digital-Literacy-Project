@@ -21,35 +21,35 @@ The project is structured into five tasks, each focusing on key aspects such as 
 ##  Repository Structure
 
 digital-literacy-project/
-
-├── README.md  
-├── report/  
-│   └── Project_Report.pdf  
-│  
-├── task-1-presentation/  
-│   ├── description.md  
-│   └── infographic.png  
-│  
-├── task-2-portfolio/  
-│   ├── github-profile.png  
-│   ├── kaggle-profile.png  
-│   ├── linkedin1-profile.png  
-│   └── linkedin2-profile.png  
-│  
-├── task-3-platforms/  
-│   ├── google-form1.png  
-│   ├── google-form2.png  
-│   ├── hackerrank.png  
-│   └── responses-sheet.png  
-│  
-├── task-4-email-etiquette/  
-│   ├── emails.pdf  
-│   └── social-media-checklist.md  
-│  
-├── task-5-cybercrime/  
-│   ├── casestudy.md  
-│   ├── prevention-checklist.md  
-│   └── reflection.md  
+│
+├── README.md
+├── report/
+│ └── Project_Report.pdf
+│
+├── task-1-presentation/
+│ ├── description.md
+│ └── infographic.png
+│
+├── task-2-portfolio/
+│ ├── github-profile.png
+│ ├── kaggle-profile.png
+│ ├── linkedin1-profile.png
+│ └── linkedin2-profile.png
+│
+├── task-3-platforms/
+│ ├── google-form1.png
+│ ├── google-form2.png
+│ ├── hackerrank.png
+│ └── responses-sheet.png
+│
+├── task-4-email-etiquette/
+│ ├── emails.pdf
+│ └── social-media-checklist.md
+│
+├── task-5-cybercrime/
+│ ├── casestudy.md
+│ ├── prevention-checklist.md
+│ └── reflection.md
 
 ---
 
