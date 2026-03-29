@@ -69,7 +69,7 @@ Set up professional profiles on platforms such as GitHub, LinkedIn, and Kaggle t
 - Completed a beginner coding challenge on HackerRank  
 - Created a Google Form quiz for digital literacy awareness  
 
-📎 **Google Form Link:** https://docs.google.com/forms/d/1LxFKLdC8bXpP5TT0fP52lcS21WdYPr4Q9QKW7rwC6vU/edit
+📎 **Google Form Link:** https://forms.gle/CJD49dDDjCD6QaZw9
 
 ---
 
