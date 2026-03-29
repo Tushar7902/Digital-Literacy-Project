@@ -17,7 +17,6 @@ The project is structured into five tasks, each focusing on key aspects such as 
 
 ---
 
-##  Repository Structure
 
 ##  Repository Structure
 
