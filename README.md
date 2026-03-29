@@ -20,7 +20,7 @@ The project is structured into five tasks, each focusing on key aspects such as 
 
 ##  Repository Structure
 
-
+```
 digital-literacy-project/
 │
 ├── README.md
@@ -51,7 +51,7 @@ digital-literacy-project/
 │   ├── casestudy.md
 │   ├── prevention-checklist.md
 │   └── reflection.md
----
+```
 
 ##  Tasks Completed
 
