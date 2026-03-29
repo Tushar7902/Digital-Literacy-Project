@@ -1,6 +1,5 @@
 # Digital-Literacy-Project
 Digital Literacy Portfolio Project covering online presence, communication, collaboration tools, and cyber safety awareness.
-# Digital Literacy Project
 
 ##  Student Details
 **Name:** Tushar Chauhan  
@@ -20,6 +19,8 @@ The project is structured into five tasks, each focusing on key aspects such as 
 
 ##  Repository Structure
 
+##  Repository Structure
+
 digital-literacy-project/
 
 ├── README.md  
@@ -27,22 +28,29 @@ digital-literacy-project/
 │   └── Project_Report.pdf  
 │  
 ├── task-1-presentation/  
-│   ├── infographic.png  
-│   └── description.md  
+│   ├── description.md  
+│   └── infographic.png  
 │  
 ├── task-2-portfolio/  
-│   └── (profile screenshots)  
+│   ├── github-profile.png  
+│   ├── kaggle-profile.png  
+│   ├── linkedin1-profile.png  
+│   └── linkedin2-profile.png  
 │  
 ├── task-3-platforms/  
-│   └── (HackerRank + Google Form screenshots)  
+│   ├── google-form1.png  
+│   ├── google-form2.png  
+│   ├── hackerrank.png  
+│   └── responses-sheet.png  
 │  
 ├── task-4-email-etiquette/  
-│   ├── emails.txt  
+│   ├── emails.pdf  
 │   └── social-media-checklist.md  
 │  
 ├── task-5-cybercrime/  
 │   ├── casestudy.md  
-│   └── prevention-checklist.md  
+│   ├── prevention-checklist.md  
+│   └── reflection.md  
 
 ---
 
