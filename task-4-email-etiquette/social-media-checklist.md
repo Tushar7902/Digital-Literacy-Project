@@ -1,4 +1,4 @@
-## 📱 Social Media Etiquette for College Students
+# 📱 Social Media Etiquette for College Students
 
 Social media is a powerful tool for communication, networking, and personal branding. As college students, how we present ourselves online can impact our academic and professional opportunities. Following proper etiquette helps maintain a positive and responsible digital presence.
 
